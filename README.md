@@ -20,3 +20,7 @@ data文件夹存放的文件是用于比较的200张图像文件
 预处理 -> 提取骨架 -> 找Y型交点 -> 删除骨架中的Y型交点 -> 用CPDA算法检测V型交点 -> 删除原边缘中的两种交点 -> 合并连通集、拟合圆
 
 取消每一步操作后的注释可以查看中间过程的处理结果
+
+作者： 卢志聪，暨南大学硕士，指导老师：张庆丰
+参考文献： 
+Qingfeng Zhang, Zhicong Lu, Xiaomei Zhou, Yang Zheng, Zhan Li, Qing-Yu Peng, Shun Long and Weiheng Zhu. Automatic removal of false image stars in disk-resolved images of the Cassini Imaging Science Subsystem, Research in Astronomy and Astrophysics, 2020，20（7）:100
